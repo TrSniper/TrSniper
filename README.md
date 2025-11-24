@@ -1,7 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on game development!
-- 🌱 I’m currently learning about design patterns and 3D zombie games!
-- 🫴 I'm also open for work! I have 20 months of experience accumulated!
+- 🔭 I’m currently working on Java!
+- 🌱 I’m currently learning about design patterns and system architecture!
 - 👤 DEU Student.
 - 🎶 I am learning about music and composition as a hobby as well.
 
