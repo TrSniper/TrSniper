@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Java!
+- 🔭 I’m currently working on Unity
 - 🌱 I’m currently learning about design patterns and system architecture!
 - 👤 DEU Student.
 - 🎶 I am learning about music and composition as a hobby as well.
